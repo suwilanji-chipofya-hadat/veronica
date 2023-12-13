@@ -1,4 +1,4 @@
-![Veronica]('/assets/veronica-light.png')
+![Veronica](/assets/veronica-light.png)
 
 **Veronica: AI-Powered Tech Content Generator and Social Media Sharer**
 
